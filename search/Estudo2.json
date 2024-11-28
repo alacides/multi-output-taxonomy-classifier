@@ -1,0 +1,37 @@
+[
+    {
+        "Subclass_labels": [
+            "F04C"
+        ], 
+        "Abstract": "the invention has a housing a pump section formed of a drive gear unit and a driven gear unit a main flow channel through which oil pressure is applied to the driven gear unit in a discharge volume reduction direction a first branching flow channel through which oil pressure that assists oil pressure from the main flow channel is applied a second branching flow channel through which oil pressure is applied to the driven gear unit in a discharge increase direction a first flow channel control section a second flow channel control section and a spring that elastically urges the driven gear unit in a discharge increase direction the first flow channel control section and the second flow channel control section can perform switching control in accordance with each increase or decrease of engine revolutions and in pressure", 
+        "Title": "pump device", 
+        "No": "US08926299"
+    }, 
+    {
+        "Subclass_labels": [
+            "C10L"
+        ], 
+        "Abstract": "in a fuel composition containing a static dissipator additive a fischer tropsch derived fuel component is blended for the purpose of increasing the electrical conductivity of the composition and or for reducing the concentration of the static dissipator additive in the composition the fuel composition is preferably an automotive diesel fuel composition", 
+        "Title": "method of formulating a fuel composition", 
+        "No": "US08926716"
+    }, 
+    {
+        "Subclass_labels": [
+            "G02C", 
+            "C09K", 
+            "G02F", 
+            "G02B"
+        ], 
+        "Abstract": "the present invention relates to optical elements such as but not limited to ophthalmic elements comprising an alignment facility for an optical dye the optical elements include a substrate and an alignment facility for an optical dye connected to at least a portion of the substrate where the alignment facility is an at least partial coating of an at least partially ordered liquid crystal material having at least a first general direction", 
+        "Title": "optical elements with alignment facilities for optical dyes", 
+        "No": "US08926091"
+    },
+    {
+        "Subclass_labels": [
+            "B43M"
+        ], 
+        "Abstract": "a device for inserting sheets into an envelope comprises a holding device supporting the envelope a support portion of the holding device is inserted into the envelope the support portion has a fixed orientation and position relative to a feed device the device further comprises a mechanism for preparing the envelope for accommodating the support portion of the holding device the mechanism is upstream of the holding device and comprises a first interaction device acting onto the envelope in a first direction during feeding of the envelope and a second interaction device downstream of the first interaction device acting onto the envelope in a second opposite direction the second interaction device comprises at least one cam on a rotatable shaft by rotation the shaft and cam may be brought into an interaction position with the envelope or an inactive position", 
+        "Title": "device for inserting sheets into an envelope", 
+        "No": "US08925291"
+    }
+]
