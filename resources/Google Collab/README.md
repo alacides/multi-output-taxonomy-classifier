@@ -4,7 +4,7 @@ Aqui será descrito os passos a serem realizados para o uso da ferramenta Google
 
 ## Requisitos
 - Conta Google
-<br> Caso não possua uma conta [**clique aqui**](https://accounts.google.com/signup) e siga os passos para o registro antes de prosseguir.
+- Caso não possua uma conta [**clique aqui**](https://accounts.google.com/signup) e siga os passos para o registro antes de prosseguir.
 
 ## Utilizando o  Google Collab
 1. Primeiramente o usuario deverá acessar o link do Google Collab [clicando aqui](https://colab.research.google.com).
