@@ -6,6 +6,7 @@ Ferramentas:
 - [**Google Collab**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/Google%20Collab)
 - [**SBERT**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/SBert)
 - [**QDrant**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/QDrant)
+- Criação do banco dados vetorial anteriormente criado em [**Indexação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/indexing)
 
 Conjunto de dados:
 - Conjunto de dados contendo as patentes do ano de 2015 disponivel nesta pasta: **2015_USPTO.json** .
