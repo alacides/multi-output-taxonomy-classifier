@@ -1,4 +1,3 @@
-
 # Classificação multi-saída de patentes utilizando vetores densos e bancos de dados vetoriais
 ## 1. Introdução
 
@@ -22,19 +21,8 @@ Abaixo se encontra as ferramentas utilizadas para a criação da aplicação, o 
 - [**QDrant**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/QDrant): Ferramenta utilizada para armazenamento do banco de dados vetorial assim como a realização de busca por similaridade.
 
 ## 4. Execução da Aplicação
-1. Para a execução da aplicação primeiramente se é necessario a criação do banco de dados vetorial com os embeddings criados atráves da indexação de patentes. O passo a passo de como criar este banco de dados esta disponivel neste link: [**Indexação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/QDrant).
+1. Para a execução da aplicação primeiramente se é necessario a criação do banco de dados vetorial com os embeddings criados atráves da indexação de patentes. O passo a passo de como criar este banco de dados esta disponivel neste link: [**Indexação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/indexing).
 
-2. **(Opcional porém recomendado)** Com o banco de dados vetorial criado podemos agora realizar um teste para verificação da acuracia da aplicação proposta. O passo a passo de como realizar este teste esta disponivel neste link: [**Teste da Aplicação**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/QDrant).
+2. **(Opcional porém recomendado)** Com o banco de dados vetorial criado podemos agora realizar um teste para verificação da acuracia da aplicação proposta. O passo a passo de como realizar este teste esta disponivel neste link: [**Teste da Aplicação**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/testing).
 
-3. Após a criação do banco de dados vetorial podemos realizar consultas como a busca por similiaridade fornecendo um determinado titulo e resumo de uma patente, esta busca retornará uma lista de documentos onde cada documento terá a informação sobre a sua subclasse extraida e então será criado um ranking em ordem decrescente onde em primeiro lugar estará a subclasse mais comum até a subclasse menos comum e com base neste ranking podemos descobrir qual a subclasse recomendada para esta patente. O passo a passo de como realizar esta  esta disponivel neste link: [**Classificação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/QDrant).
-
-
-### 2. Setup do banco de dados vetorial utilizando QDrant
-
-### 3. Configurando arquivos com seu banco de dados vetorial
-
-### 4. Criação dos embeddings no banco de dados vetorial
-
-### 5. Testando banco de dados vetorial criado
-
-### 6. Utilização da função de classificação de patentes
+3. Após a criação do banco de dados vetorial podemos realizar consultas como a busca por similiaridade fornecendo um determinado titulo e resumo de uma patente, esta busca retornará uma lista de documentos onde cada documento terá a informação sobre a sua subclasse extraida e então será criado um ranking em ordem decrescente onde em primeiro lugar estará a subclasse mais comum até a subclasse menos comum e com base neste ranking podemos descobrir qual a subclasse recomendada para esta patente. O passo a passo de como realizar esta  esta disponivel neste link: [**Classificação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/search).
