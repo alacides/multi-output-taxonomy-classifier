@@ -48,7 +48,7 @@ Conjunto de dados:
     [0.61422329 0.7048278  0.7405785  0.75234627 0.75659141]]
     ```
 
-4. Destacando os dados obtidos na etapa anterior em uma tabela temos:<br>
+4. Destacando os dados obtidos na etapa anterior em uma tabela temos as seguintes acuracias a partir da variação do numero de documentos(**colunas**) e até quantas subclasses queremos ver no ranking(**linhas**):<br>
 
     |       | 10 Documentos   | 25 Documentos   | 50 Documentos   | 75 Documentos   | 100 Documentos   |
     |-------|------------|------------|------------|------------|------------|
@@ -64,7 +64,7 @@ Conjunto de dados:
     | 10 Subclasses| 0.61422329 | 0.7048278  | 0.7405785  | 0.75234627 | 0.75659141 |
 <br>
 
-5. Agora com o teste da aplicação realizada tambem podemos realizar a seguinte função:
+5. Agora com o teste da aplicação realizado tambem podemos realizar a seguinte função:
 - [**Classificação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/search): Dado um titulo e resumo de uma patente será realizada uma busca por similiriadade que retornará as subclasses mais recomendadas para esta patente em ordem decrescente.
 
 ## Bibliografia
