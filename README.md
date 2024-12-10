@@ -40,3 +40,14 @@ Abaixo se encontra as ferramentas utilizadas para a criação da aplicação, o 
 2. **(Opcional porém recomendado)** Com o banco de dados vetorial criado podemos agora realizar um teste para verificação da acuracia da aplicação proposta. O passo a passo de como realizar este teste esta disponivel neste link: [**Teste da Aplicação**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/testing).
 
 3. Após a criação do banco de dados vetorial podemos realizar consultas como a busca por similiaridade fornecendo um determinado titulo e resumo de uma patente, esta busca retornará uma lista de documentos onde cada documento terá a informação sobre a sua subclasse extraida e então será criado um ranking em ordem decrescente onde em primeiro lugar estará a subclasse mais comum até a subclasse menos comum e com base neste ranking podemos descobrir qual a subclasse recomendada para esta patente. O passo a passo de como realizar esta  esta disponivel neste link: [**Classificação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/search).
+
+## Bibliografia
+LI, S. et al. **DeepPatent: patent classification with convolutional neural networks and word embedding.** Scientometrics,v. 117, p. 721–744, 2018. Disponível em: <https://link.springer.com/article/10.1007/s11192-018-2905-5>.
+
+SOFEAN M. **Deep learning based pipeline with multichannel inputs for patent classification**, World Patent Information. v. 66, p. 102060, 2021, ISSN 0172-2190. Disponível em <https://doi.org/10.1016/j.wpi.2021.102060>.
+
+RUIJIE Z. et al. **Patent text modeling strategy and its classification based on structural features.** World Patent Information, v. 67, p. 102084, 2021, ISSN 0172-2190. Disponível em <https://doi.org/10.1016/j.wpi.2021.102084>.
+
+LEE J.; HSIANG J. **Patent classification by fine-tuning BERT language model.** World Patent Information, v. 61, p. 101965, 2020, ISSN 0172-2190. Disponível em <https://doi.org/10.1016/j.wpi.2020.101965>.
+
+CHOI, S. et al. **Deep learning for patent landscaping using transformer and graph embedding**. Technological Forecasting and Social Change, v. 175, p. 121413, 2022, ISSN 0040-1625. Disponível em <https://doi.org/10.1016/j.techfore.2021.121413>.
