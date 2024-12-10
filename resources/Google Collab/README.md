@@ -1,6 +1,6 @@
 # Google Collab
 
-Aqui será descrito os passos a serem realizados para o uso da ferramenta Google Collab, assim como um exemplo de seu uso.
+Aqui será descrito os passos a serem realizados para o uso da ferramenta Google Collab utilizada para execução de codigos devido a capacidade de processamento, assim como um exemplo de seu uso.
 
 ## Requisitos
 - Conta Google

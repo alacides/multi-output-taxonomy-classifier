@@ -1,6 +1,6 @@
 # QDrant
 
-Aqui será descrito os passos a serem realizados para o uso da ferramenta Google QDrant, assim como um exemplo de seu uso.
+Aqui será descrito os passos a serem realizados para o uso da ferramenta QDrant que é utilizada para armazenamento do banco de dados vetorial assim como a realização de busca por similaridade, assim como um exemplo de seu uso.
 
 ## Requisitos
 - Conta QDrant
