@@ -20,7 +20,7 @@ Conjunto de dados:
     3. Caso tenha feito corretamente os passos anterior voce deverá ver a seguinte situação:<br>![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/indexing/indexing3.png?raw=true)
 <br>
 3.  Agora execute todos os blocos de codigo em ordem sequencial e caso tenha feito tudo corretamente a saida de seu ultimo bloco de codigo deverá ser algo semelhante a:
-    ```python
+    ```
     110 patents were found for the subclass A01B.
     -> 50 patent were indexed!!!
     -> 100 patent were indexed!!!
