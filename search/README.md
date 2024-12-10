@@ -8,7 +8,7 @@ Ferramentas:
 - [**QDrant**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/resources/QDrant)
 - Criação do banco dados vetorial anteriormente criado em [**Indexação de Patentes**](https://github.com/alacides/multi-output-taxonomy-classifier/tree/main/indexing)
 ## Realização da Classificação
-1. Primeiramente o usuario deverá acessar o link do Google Collab [clicando aqui](https://colab.research.google.com) acessar sua conta e realizar o upload do arquivo **patent_taxonomy_testing_v2.ipynb** encontrado nesta pasta.
+1. Primeiramente o usuario deverá acessar o link do Google Collab [clicando aqui](https://colab.research.google.com) acessar sua conta e realizar o upload do arquivo **patent_taxonomy_searching_v2_case.ipynb** encontrado nesta pasta.
 
 2. Com o codigo aberto o usuario deve procurar o seguinte trecho do codigo para inserir o titulo e o resumo da patente que deseja clasificar como mostrado na imagem abaixo<br>
     ![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/search/search1.png?raw=true)
