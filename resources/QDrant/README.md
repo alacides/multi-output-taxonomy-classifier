@@ -10,14 +10,14 @@ Aqui será descrito os passos a serem realizados para o uso da ferramenta Google
 ## Utilizando o QDrant
 1. Nosso primeiro passo será a criação de um cluster gratuito oferecido pela QDrant.
 <br>Ao acessar sua conta pela primeira vez você deverá encontrar algo semelhante a imagem a seguir:
-![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/Google%20Collab/collab1.png?raw=true)
+![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/QDrant/Qdrant1.png?raw=true)
 Primeiramente daremos um nome a este cluster no campo **Cluster Name**, e logo em seguida clique no botão **Create Free Cluster**.
 
 2. Logo após ser solicitada a criação de seu cluster será solicitado que o usuario gera uma API KEY atráves do botão **Generate API Key** como exibido na imagem abaixo.
-![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/Google%20Collab/collab1.png?raw=true)
+![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/QDrant/Qdrant2.png?raw=true)
 
 3. O usuario após clicar no botão **Generate API Key** recebera sua chave de API do cluster criado como mostrado na imagem abaixo, **Preste muita atenção copie e cole essa key para um local seguro pois você não podera ve-lá ou requisita-la novamente**.
-![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/Google%20Collab/Collab2.png?raw=true)
+![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/QDrant/Qdrant3.png?raw=true)
 4. Agora com sua API Key iremos ao Google Collab realizar um teste de seu cluster criado. Crie um novo notebook no Google Collab com dois blocos de codigos no primeiro você deve inserir os seguinte trechos de codigo substituindo os campos **URL_CLUSTER, API_KEY e CLUSTER_NAME** com as informações de seu cluster respectivamente.
 No primeiro bloco você deve inserir os seguinte trecho de codigo que adicionara os prerequisitos para executarmos o Qdrant no Google Collab:
     ```python
@@ -59,5 +59,6 @@ No primeiro bloco você deve inserir os seguinte trecho de codigo que adicionara
     ScoredPoint(id=1, version=2, score=1.273, payload=None, vector=None, shard_key=None, order_value=None), 
     ScoredPoint(id=3, version=2, score=1.208, payload=None, vector=None, shard_key=None, order_value=None)]
     ```
+    ![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/QDrant/Qdrant4.png?raw=true)
 
 6. Caso possua o mesmo resultado agora você está apto a começar a utilizar o QDrant e suas funções.
