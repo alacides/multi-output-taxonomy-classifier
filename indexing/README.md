@@ -17,9 +17,8 @@ Conjunto de dados:
 2. Com o documento aberto devemos inserir os conjuntos de dados necessarios para a criação do banco de dados vetorial seguindo os seguintes passos:<br>
     1. Clique na pasta para ver os arquivos do ambiente de trabalho do projeto.<br>![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/indexing/indexing1.png?raw=true)<br>
     2. Em seguida clique para enviar arquivos e selecione os arquivos: **2014_USPTO** e **subclass_2025_with_description.h5** .<br>![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/indexing/indexing2.png?raw=true)<br>
-    3. Caso tenha feito corretamente os passos anterior voce deverá ver a seguinte situação:<br>![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/indexing/indexing3.png?raw=true)
-<br>
-3.  Agora execute todos os blocos de codigo em ordem sequencial e caso tenha feito tudo corretamente a saida de seu ultimo bloco de codigo deverá ser algo semelhante a:<br>
+    3. Caso tenha feito corretamente os passos anterior voce deverá ver a seguinte situação:<br>![](https://github.com/alacides/multi-output-taxonomy-classifier/blob/main/resources/indexing/indexing3.png?raw=true)<br>
+3. Agora execute todos os blocos de codigo em ordem sequencial e caso tenha feito tudo corretamente a saida de seu ultimo bloco de codigo deverá ser algo semelhante a:<br>
 ```
 110 patents were found for the subclass A01B.
 -> 50 patent were indexed!!!
